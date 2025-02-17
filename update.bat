@@ -1,3 +1,4 @@
+@chcp 65001 > nul
 @echo off
 echo 正在添加文件到暂存区...
 git add .
