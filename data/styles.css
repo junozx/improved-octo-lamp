@@ -319,6 +319,11 @@
   color:#F56C6C;
   text-align:center;
 }
+.badge {
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+}
 .el-shadow {
 }
 .primary_button {
@@ -328,6 +333,8 @@
 }
 .image1 {
   color:#000000;
+}
+.table {
 }
 .box_21 {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
@@ -421,5 +428,9 @@
 .shape1 {
 }
 .line1 {
+}
+.line2 {
+}
+.vertical_line {
 }
 textarea, select, input, button { outline: none; }
