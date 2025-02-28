@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="134px" height="134px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-143.243497614418" y1="134" x2="67" y2="78.5387507433459" id="LinearGradient384">
+      <stop id="Stop385" stop-color="#40dcff" offset="0" />
+      <stop id="Stop386" stop-color="#4989f4" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip387">
+      <path d="M 0 67  C 0 104.0030782366  29.9969217634 134  67 134  C 104.0030782366 134  134 104.0030782366  134 67  C 134 29.9969217634  104.0030782366 0  67 0  C 29.9969217634 0  0 29.9969217634  0 67  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -133 50 )">
+    <path d="M 0 67  C 0 104.0030782366  29.9969217634 134  67 134  C 104.0030782366 134  134 104.0030782366  134 67  C 134 29.9969217634  104.0030782366 0  67 0  C 29.9969217634 0  0 29.9969217634  0 67  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" transform="matrix(1 0 0 1 133 -50 )" />
+    <path d="M 0 67  C 0 104.0030782366  29.9969217634 134  67 134  C 104.0030782366 134  134 104.0030782366  134 67  C 134 29.9969217634  104.0030782366 0  67 0  C 29.9969217634 0  0 29.9969217634  0 67  Z " stroke-width="80" stroke="url(#LinearGradient384)" fill="none" transform="matrix(1 0 0 1 133 -50 )" mask="url(#clip387)" />
+  </g>
+</svg>
