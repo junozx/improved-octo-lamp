@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="176px" height="176px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="-103.80281953636" y1="148.312295405023" x2="150.382945699905" y2="17.9814672774128" id="LinearGradient1480">
-      <stop id="Stop1481" stop-color="#4b40ff" offset="0" />
-      <stop id="Stop1482" stop-color="#4989f4" stop-opacity="0" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-103.80281953636" y1="148.312295405023" x2="150.382945699905" y2="17.9814672774128" id="LinearGradient1642">
+      <stop id="Stop1643" stop-color="#4b40ff" offset="0" />
+      <stop id="Stop1644" stop-color="#4989f4" stop-opacity="0" offset="1" />
     </linearGradient>
-    <mask fill="white" id="clip1483">
+    <mask fill="white" id="clip1645">
       <path d="M 0 88  C 0 136.6010579824  39.3989420176 176  88 176  C 136.6010579824 176  176 136.6010579824  176 88  C 176 39.3989420176  136.6010579824 0  88 0  C 39.3989420176 0  0 39.3989420176  0 88  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -81 -24 )">
     <path d="M 0 88  C 0 136.6010579824  39.3989420176 176  88 176  C 136.6010579824 176  176 136.6010579824  176 88  C 176 39.3989420176  136.6010579824 0  88 0  C 39.3989420176 0  0 39.3989420176  0 88  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0" transform="matrix(1 0 0 1 81 24 )" />
-    <path d="M 0 88  C 0 136.6010579824  39.3989420176 176  88 176  C 136.6010579824 176  176 136.6010579824  176 88  C 176 39.3989420176  136.6010579824 0  88 0  C 39.3989420176 0  0 39.3989420176  0 88  Z " stroke-width="120" stroke="url(#LinearGradient1480)" fill="none" transform="matrix(1 0 0 1 81 24 )" mask="url(#clip1483)" />
+    <path d="M 0 88  C 0 136.6010579824  39.3989420176 176  88 176  C 136.6010579824 176  176 136.6010579824  176 88  C 176 39.3989420176  136.6010579824 0  88 0  C 39.3989420176 0  0 39.3989420176  0 88  Z " stroke-width="120" stroke="url(#LinearGradient1642)" fill="none" transform="matrix(1 0 0 1 81 24 )" mask="url(#clip1645)" />
   </g>
 </svg>
