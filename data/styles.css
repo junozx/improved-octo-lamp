@@ -72,6 +72,13 @@
 }
 .box_2 {
 }
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
 .h14-black {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -234,6 +241,10 @@
 }
 .form_disabled {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 ._连接 {
 }
 .table_cell1 {
@@ -368,6 +379,13 @@
   font-size:24px;
   text-align:left;
 }
+.heading_21 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .heading_3 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -432,5 +450,8 @@
 .line2 {
 }
 .vertical_line {
+}
+.form_hint {
+  color:#999999;
 }
 textarea, select, input, button { outline: none; }
